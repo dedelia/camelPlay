@@ -21,6 +21,7 @@
 	<modules>
 		<module>camel-java-dsl-router</module>
 		<module>camel-spring-dsl-router</module>
+		<module>routing-spring-integration</module>
 	</modules>
 
 	<properties>
