@@ -1,2 +1,3 @@
-# camelPlay
-Demo project of routing messages using Apache Camel
+# welcome to my playground
+Demo project of new thing I learn on my own : 
+  - routing with Apache Camel
