@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="camel-java-dsl-router" />
+        <module name="camel-spring-dsl-router" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -17,6 +18,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="camel-java-dsl-router" options="-parameters" />
       <module name="camel-play" options="-parameters" />
+      <module name="camel-spring-dsl-router" options="-parameters" />
       <module name="playground" options="-parameters" />
     </option>
   </component>
